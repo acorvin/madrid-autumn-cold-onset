@@ -1,6 +1,6 @@
 # The First Cold Night, Madrid 1920–2025
 
-When the first night below 5°C arrives each autumn at Madrid's Retiro weather station, and whether it still comes when it used to. The analysis is in [`notebooks/analysis.ipynb`](notebooks/analysis.ipynb).
+When the first night below 5°C arrives each autumn at Madrid's Retiro weather station, and whether it still comes when it used to. The analysis is in [`notebooks/analysis.ipynb`](notebooks/analysis.ipynb). I wrote about it in [The First Cold Night](https://alexcorvindata.substack.com/p/madrid-first-cold-night).
 
 ## The problem
 
